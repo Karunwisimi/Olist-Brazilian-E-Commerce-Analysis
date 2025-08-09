@@ -58,4 +58,4 @@ This project is for educational and portfolio purposes. Dataset is publicly avai
 
 
 ##  Author
-**Your Name** – Karunwi Simisola  [Your GitHub Profile Link]
+**Your Name** – Karunwi Simisola [https://github.com/karunwisimi]
